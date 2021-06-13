@@ -4,6 +4,6 @@
 .Ruserdata
 .MSFD-QA-GFSM-A-DP.Rroj
 # exclude everything except directory foo/b
-/Data_QA_Process_V4_2021/*
-/Regional Boundaries Maps and Data/*
-/Raw_Data/*
+*/Data_QA_Process_V4_2021/*
+*/Regional Boundaries Maps and Data/*
+*/Raw_Data/*
