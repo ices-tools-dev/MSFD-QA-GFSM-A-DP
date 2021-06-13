@@ -7,6 +7,7 @@ Repository to house MSFD Quality Assured Groundfish Survey Monitoring and Assess
 - Details of the MSFD original product which match the original data files in '2017 Moriarty version' are given in, Moriarty, M., Greenstreet, S.P.R & Ramussen (2017) Derivation of Groundfish Survey Monitoring and Assessment Data Products for the Northeast Atlantic Area. Scottish Marine and Freshwater Science Report Vol 8 No 16 
 - Details of any updates to this are given in the individual folders, e.g. for '2021_Moriarty_Kelly_updates' these are given in the word document 'Reanalysis of the IBTS and BTS datasets Datras.docx'
     - The outputs of that reanalysis are in the file - 'Sampling_info_all_surveysV4_13-06-2021.csv'. This word was conducted conjunction with the WK_SAE workshop June 2021, and further details can be found in the working group report. 
-    - Any questions about this version may be directed to Ruth Kelly ruthkelly@afbini.gov.uk
+    - Unfortunately, the raw data files and map files required to run the code were too large for storage on github, these are therefore stored in the WK_SAE 2020 ICES sharepoint folder. 
+    - Any questions about the 2021 Sampling Information Product version may be directed to Ruth Kelly ruthkelly@afbini.gov.uk
 
 - Any questions related to write access to this repository should be directed to Colin Millar at ICES. 
